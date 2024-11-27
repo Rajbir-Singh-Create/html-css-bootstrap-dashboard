@@ -2,3 +2,9 @@ img {
     width: 70px;
     padding-right: 12px;
 }
+
+.title-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
