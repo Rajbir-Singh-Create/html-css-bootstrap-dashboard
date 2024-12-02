@@ -12,3 +12,7 @@ img {
 .divider {
     border: 1px solid;
 }
+
+.search-padding {
+    padding-right: 12px;
+}
