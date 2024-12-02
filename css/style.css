@@ -8,3 +8,7 @@ img {
     justify-content: space-between;
     padding: 20px;
 }
+
+.divider {
+    border: 1px solid;
+}
